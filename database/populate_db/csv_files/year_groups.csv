@@ -1,0 +1,10 @@
+year_group_id, display_name,description
+'UIII' , 'Upper Three', 'Class containing students in upper three i.e. Year 7'
+'LIV' , 'Lower Four', 'Class containing students in Lower Four i.e. Year 8'
+'UIV' , 'Upper Four', 'Class containing students in Upper Four i.e. Year 9'
+'LV' , 'Upper Five','Class containing students in Lower Five i.e. Year 10'
+'UV' , 'Lower Five', 'Class containing students in Upper Five i.e. Year 11'
+'LVI' , 'Lower Six', 'Class containing students in Lower Six i.e. Year 12'
+'UVI' , 'Upper Six', 'Class containing students in Upper Six i.e. Year 13'
+
+
